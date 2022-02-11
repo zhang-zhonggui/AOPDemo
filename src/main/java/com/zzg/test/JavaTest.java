@@ -1,13 +1,11 @@
 package com.zzg.test;
 
-import org.junit.jupiter.api.Test;
-
+import org.junit.Test;
 /**
  * @author ：zzg
  * @description：
  * @date ：2022/2/11 9:42
  */
-
 public class JavaTest {
     @Test
     public void test(){
