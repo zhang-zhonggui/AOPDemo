@@ -7,7 +7,7 @@ import org.junit.Test;
 
 /**
  * @author ：zzg
- * @description：
+ * @description：静态代理
  * @date ：2022/2/11 9:42
  */
 public class JavaTest {
