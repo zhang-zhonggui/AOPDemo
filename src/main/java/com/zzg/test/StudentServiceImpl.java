@@ -5,7 +5,7 @@ package com.zzg.test;
  * @description：
  * @date ：2022/2/11 9:38
  */
-public class StudentServiceImpl implements StudentService{
+public class StudentServiceImpl implements StudentService {
     @Override
     public void add() {
         System.out.println("添加学生");
